@@ -3,10 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0b1020,60:1a1240,100:5a46e0&text=TELEGRAM%20LAPTOP%20REMOTE%20CONTROL&fontColor=ffc857&fontSize=30&fontAlignY=45&desc=Powered%20by%20ANANNO%20CHOWDHURY&descColor=e8ebf7&descSize=16&descAlignY=72" alt="Telegram Laptop Remote Control" width="100%"/>
   </a>
 
-  <img src="https://img.shields.io/badge/status-ready-0b1020?style=for-the-badge&labelColor=0b1020&color=5a46e0" alt="status: ready"/>
-  <img src="https://img.shields.io/badge/python-3.8+-0b1020?style=for-the-badge&labelColor=0b1020&color=5a46e0" alt="python 3.8+"/>
-  <img src="https://img.shields.io/badge/windows-only-0b1020?style=for-the-badge&labelColor=0b1020&color=5a46e0" alt="windows only"/>
-
 <br/>
 
 <a href="https://github.com/ANANNOCHOWDHURY">
@@ -15,6 +11,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FFC857&center=true&vCenter=true&width=640&lines=%24+whoami;Telegram+Laptop+Remote+Control;Control+your+Windows+PC+from+anywhere" alt="$ whoami" />
   </picture>
 </a>
+
+<br/>
+
+  <img src="https://img.shields.io/badge/status-ready-0b1020?style=for-the-badge&labelColor=0b1020&color=5a46e0" alt="status: ready"/>
+  <img src="https://img.shields.io/badge/python-3.8+-0b1020?style=for-the-badge&labelColor=0b1020&color=5a46e0" alt="python 3.8+"/>
+  <img src="https://img.shields.io/badge/windows-only-0b1020?style=for-the-badge&labelColor=0b1020&color=5a46e0" alt="windows only"/>
 
 </div>
 
