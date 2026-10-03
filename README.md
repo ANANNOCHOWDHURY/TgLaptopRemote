@@ -167,7 +167,25 @@ To have the bot start automatically when Windows boots, you can use Task Schedul
 - Do not use this project for any harmful or illegal purpose.
 - You are responsible for using this in compliance with applicable law.
 
-<br/>
+## `> license`
+
+All Rights Reserved — © 2026 Ananno Chowdhury. See [`LICENSE`](./LICENSE) for the full terms. No part of this source code, design, or content may be copied, reused, or redistributed without written permission.
+
+## `> contact`
+
+<div align="center">
+
+<a href="mailto:mdnowmihayatchowdhuryananno@gmail.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ananno-chowdhury-6482a3378"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=ffc857" alt="LinkedIn"/></a>
+<a href="https://github.com/PK-BIGBOY"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffc857" alt="GitHub"/></a>
+<a href="https://www.anannochowdhury.com/"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=googlechrome&logoColor=ffc857" alt="Portfolio"/></a>
+
+<br/><br/>
+
+```bash
+ananno@bigboy:~$ echo "Stay curious. Hack ethically."
+Stay curious. Hack ethically.
+```
 
 <div align="center">
   <a href="https://www.anannochowdhury.com/">
