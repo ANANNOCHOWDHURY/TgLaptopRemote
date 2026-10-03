@@ -7,8 +7,8 @@
 
 <a href="https://github.com/ANANNOCHOWDHURY">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=5A46E0&center=true&vCenter=true&width=640&lines=%24+whoami;Telegram+Laptop+Remote+Control;Control+your+Windows+PC+from+anywhere">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FFC857&center=true&vCenter=true&width=640&lines=%24+whoami;Telegram+Laptop+Remote+Control;Control+your+Windows+PC+from+anywhere" alt="$ whoami" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=5A46E0&center=true&vCenter=true&width=640&lines=%24+whoami;Telegram+Laptop+Remote+Control;Control+your+Windows+PC+from+anywhere">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFC857&center=true&vCenter=true&width=640&lines=%24+whoami;Telegram+Laptop+Remote+Control;Control+your+Windows+PC+from+anywhere" alt="$ whoami" />
   </picture>
 </a>
 
